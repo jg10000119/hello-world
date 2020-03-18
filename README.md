@@ -1,2 +1,2 @@
 # hello-world
-the first steep
+the first step
